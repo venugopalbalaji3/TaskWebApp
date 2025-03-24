@@ -18,6 +18,6 @@ TaskWebApp is a task management application built using **ReactJS** with **Vite*
    ```bash
    git clone https://github.com/venugopalbalaji3/TaskWebApp.git
    
-cd TaskWebApp
-npm install
-npm run dev
+- cd TaskWebApp 
+- npm install
+- npm run dev
